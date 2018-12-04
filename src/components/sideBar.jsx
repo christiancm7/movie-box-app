@@ -34,22 +34,14 @@ const SideBar = ({ items, onItemSelect, selectedItem }) => {
         <div className="legal">
           &copy; 2018 by{" "}
           <a
-            href="https://gilbertrosario.com/"
+            href="https://christianjmorales.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="footer__link"
           >
-            Gilbert Rosario.
+            christian Morales.
           </a>{" "}
-          All rights reserved. View project on{" "}
-          <a
-            href="https://github.com/Gilbert1391/Movie-Dashboard"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="footer__link"
-          >
-            GitHub.
-          </a>
+          All rights reserved.
         </div>
       </div>
     </nav>

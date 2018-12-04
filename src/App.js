@@ -8,7 +8,7 @@ import Movies from "./components/movies";
 import Dashboard from "./components/dashboard";
 import notFound from "./components/notFound";
 import "react-toastify/dist/ReactToastify.css";
-import "./App.scss";
+import "./App.css";
 
 class App extends Component {
   state = {
